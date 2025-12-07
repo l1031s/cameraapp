@@ -1,1 +1,4 @@
 # cameraapp
+# how to use:
+# download .apk
+# and enjoy cameraapp
